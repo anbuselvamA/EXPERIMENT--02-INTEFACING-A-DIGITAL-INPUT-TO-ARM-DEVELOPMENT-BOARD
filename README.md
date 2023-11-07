@@ -12,6 +12,7 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
  
   
 ## Procedure:
+```
 1.Open a new STM32 Project
 2.Selecting GPIO Ports
     PA5 -> GPIO Output
@@ -22,6 +23,7 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 6.Bulid Debug
 7.Connect the ARM board to usb
 8.Check for execution of the output using run option
+```
 
 
 ## STM 32 CUBE PROGRAM :
