@@ -15,8 +15,8 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
  1. click on STM 32 CUBE IDE, the following screen will appear
 
  2. click on FILE, click on new stm 32 project
- 3. 
-4. select the target to be programmed  as shown below and click on next 
+    
+3. select the target to be programmed  as shown below and click on next 
 
 4.select the program name 
 
